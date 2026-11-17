@@ -1,10 +1,11 @@
 # 🖥️ root@Mohamed Sashan:~# whoami
 
-  # Hi 👋 I'm Mohamed Sashan
+<div align="center">
+# Hi 👋 I'm Mohamed Sashan
 🛡️ Aspiring Penetration Tester | 🚀 Cybersecurity Entrepreneur | 💻 Technology Builder
 
 *"Curiosity fuels my learning. Security drives my mission. Innovation builds my future."*
-
+</div>
 ---
 
 ### 👤 About Me
