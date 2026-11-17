@@ -115,7 +115,7 @@ Topics I'm exploring:
 
 - 📧 **Email:** sashan.biz@gmail.com
 - 🌐 **Portfolio:** [sashan-cyber.github.io/personal-portfolio](https://sashan-cyber.github.io/personal-portfolio)
-- 🐦 **X/Twitter:** [sashan biz](https://x.com/sashanbiz) *(Note: unga exact twitter link-a inga update pannikonga)*
+- 🐦 **X/Twitter:** [sashan biz](https://x.com/sashanbiz) 
 
 <br>
 <div align="center">
