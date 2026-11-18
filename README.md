@@ -113,7 +113,7 @@ Topics I'm exploring:
 ### 🌐 Connect With Me
 
 - 📧 **Email:** sashan.biz@gmail.com
-- 💼 **LinkedIn:** [Mohamed Sashan](www.linkedin.com/in/mohamed-sashan-018572450)
+- 💼 **LinkedIn:** [mohamed-sashan](https://www.linkedin.com/in/mohamed-sashan-018572450)
 - 🌐 **Portfolio:** [sashan-cyber.github.io/personal-portfolio](https://sashan-cyber.github.io/personal-portfolio)
 - 🐦 **X/Twitter:** [sashanbiz](https://x.com/sashanbiz) 
 
