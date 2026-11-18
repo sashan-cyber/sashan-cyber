@@ -7,7 +7,6 @@
 
 *"Curiosity fuels my learning. Security drives my mission. Innovation builds my future."*
 </div>
----
 
 ### 👤 About Me
 
@@ -114,8 +113,9 @@ Topics I'm exploring:
 ### 🌐 Connect With Me
 
 - 📧 **Email:** sashan.biz@gmail.com
+- 💼 **LinkedIn:** [Mohamed Sashan](www.linkedin.com/in/mohamed-sashan-018572450)
 - 🌐 **Portfolio:** [sashan-cyber.github.io/personal-portfolio](https://sashan-cyber.github.io/personal-portfolio)
-- 🐦 **X/Twitter:** [sashan biz](https://x.com/sashanbiz) 
+- 🐦 **X/Twitter:** [sashanbiz](https://x.com/sashanbiz) 
 
 <br>
 <div align="center">
